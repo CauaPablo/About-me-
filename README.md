@@ -1,4 +1,4 @@
-- 👋 Hi, I’am @CauaPablo
+- 👋 Hi, I’m @CauaPablo
 - 👀 I’m interested in Data engineering and Artificial intelligence 
 - 📫 How to reach me: @Dataside
 
