@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CauaPablo
+- 👋 Hi, I’am @CauaPablo
 - 👀 I’m interested in Data engineering and Artificial intelligence 
-- 📫 How to reach me @Dataside
+- 📫 How to reach me: @Dataside
 
 <!---
 CauaPablo/CauaPablo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
