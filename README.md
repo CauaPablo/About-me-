@@ -1,7 +1,7 @@
 ## Olá! Eu sou Cauã Pablo, Engenheiro de Dados e falo de IA e Bussines!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CauaPablo&show_icons=true&theme=radical)
+!(https://github-readme-stats.vercel.app/api?username=CauaPablo&show_icons=true&theme=radical)
 
 
 <div style="display: inline_block">
