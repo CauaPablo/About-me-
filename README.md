@@ -1,8 +1,7 @@
 ## Olá! Eu sou Cauã Pablo, Engenheiro de Dados e falo de IA e Bussines!
 
 
-!(https://github-readme-stats.vercel.app/api?username=CauaPablo&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CauaPablo&show_icons=true&theme=radical)
 
 <div style="display: inline_block">
   <img align="center" alt="sql" src= 	"https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
